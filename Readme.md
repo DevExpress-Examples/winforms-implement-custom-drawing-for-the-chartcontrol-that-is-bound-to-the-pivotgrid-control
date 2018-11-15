@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication8/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication8/Form1.vb))
+<!-- default file list end -->
 # How to implement custom drawing for a ChartControl that is bound to the PivotGrid control
 
 
